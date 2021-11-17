@@ -1,0 +1,1 @@
+python train.py --img-size 128 --batch 128 --save_period 5 --epochs 500 --data xkey_dataset_4.yaml --weights yolov5l.pt --device 0 --workers=8
